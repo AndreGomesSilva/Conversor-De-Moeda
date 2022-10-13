@@ -2,7 +2,8 @@
 
 ##Desafio Alura/ Oracle Project One
 
-O desafio: desenvolver uma aplicação capaz de converter moedas e/ou unidade de temperatura, utilização a biblioteca Swing da linguagem JAVA
+O desafio: desenvolver uma aplicação capaz de converter moedas e/ou unidade de temperatura, utilizando a linguagem JAVA (biblioteca Swing)
+
 link do desafio https://github.com/alura-challenges/challenge-one-conversor-br
 
 ## Resultado:
