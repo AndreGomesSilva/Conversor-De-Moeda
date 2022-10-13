@@ -14,7 +14,7 @@ public class MainFrame extends JFrame{
 
 
     public MainFrame() {
-        JFrame chooseFrame = new JFrame("Converso");
+        JFrame chooseFrame = new JFrame("Converter");
         chooseFrame.setContentPane (Menu);
         chooseFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         //make visible and set default size
@@ -28,6 +28,11 @@ public class MainFrame extends JFrame{
 
                 if (optionsBox.getSelectedItem() == "Conversor de Moeda") {
                     new CurrencyConverter();
+                    chooseFrame.setVisible(false);
+                    dispose();
+                }
+                else if (optionsBox.getSelectedItem() == "Conversor de Temperatura"){
+                    new TemperatureConverter();
                     chooseFrame.setVisible(false);
                     dispose();
                 }
