@@ -19,7 +19,7 @@ Dólar Americano (USD)
 Dólar Canadense (CAD)
 
 
-![](https://github.com//AndreGomesSilva/Conversor-De-Moeda/assets/currency_converter.gif)
+![](https://github.com/AndreGomesSilva/Conversor-De-Moeda/tree/master/assets/currency_converter.gif)
 
 
 ---
@@ -34,4 +34,4 @@ Fahrenheit (ºF)
 
 Kelvin (K)
 
-![](https://github.com//AndreGomesSilva/Conversor-De-Moeda/assets/temp_converter.gif)
+![](https://github.com/AndreGomesSilva/Conversor-De-Moeda/tree/master/assets/temp_converter.gif)
