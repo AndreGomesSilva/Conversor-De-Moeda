@@ -24,7 +24,7 @@ Dólar Canadense (CAD)
 
 ---
 
-__Conversor de Temperatura __ &#127777;
+__Conversor de Temperatura__ &#127777;
 
 Unidades de Temperaturas disponíveis para conversão:
 
